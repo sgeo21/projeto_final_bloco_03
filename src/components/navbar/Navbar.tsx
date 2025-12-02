@@ -21,7 +21,7 @@ function Navbar() {
                             // onSubmit={buscarProdutos}
 						>
                             <input type="text" placeholder="Buscar produtos..." className="w-full p-2 border border-gray-300 rounded text-white font-semibold" />
-                            <button type="submit" className="p-2 bg-red-950 py-2 mx-2 text-white rounded">Buscar</button>
+                            <button type="submit" className="p-2 bg-red-800  hover:bg-red-300 py-2 mx-2 text-white rounded">Buscar</button>
                         </form>
                     </div>
 
